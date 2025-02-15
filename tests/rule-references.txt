@@ -3484,3 +3484,16 @@ https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 https://posts.specterops.io/lateral-movement-abuse-the-power-of-dcom-excel-application-3c016d0d9922
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5101
+https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
+https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://github.com/outflanknl/NetshHelperBeacon
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
+https://ngrok.com/blog-post/new-ngrok-domains
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
+https://www.virustotal.com/gui/file/a864282fea5a536510ae86c77ce46f7827687783628e4f2ceb5bf2c41b8cd3c6/behavior
+https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
+https://github.com/poweradminllc/PAExec
+https://unit42.paloaltonetworks.com/chromeloader-malware/
